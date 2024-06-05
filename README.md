@@ -12,9 +12,6 @@ I've been interested in coding since my first year of university. I've really fo
 * 🧠  I'm learning Advanced Python | Java | Frontend
 * ⚡  Outside of coding, I'm interested in Space Science | Physics | Mathematics
 
-<a href="https://www.github.com/https://github.com/ambareeshram" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/https://github.com/ambareeshram?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
